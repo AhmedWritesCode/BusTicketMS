@@ -1,0 +1,5 @@
+Bus Number: 3
+Driver Name: Default Driver
+Capacity: 50
+Tickets:
+Passenger Name: Ahmed, Seat Number: 3, Fare: 22.0
